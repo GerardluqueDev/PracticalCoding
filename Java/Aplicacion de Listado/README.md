@@ -32,4 +32,4 @@ Si encuentras algún error o tienes sugerencias para mejorar este programa, ¡no
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT) - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT) - ver el archivo [LICENSE](https://github.com/GeriMultiDev/PracticalCoding/blob/main/LICENSE) para más detalles.
