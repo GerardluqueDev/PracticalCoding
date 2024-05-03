@@ -1,23 +1,23 @@
-# [Nombre del Proyecto]
+# [Project Name]
 
-Descripción breve del proyecto.
+Brief description of the project.
 
-## Instalación
+## Installation
 
-Instrucciones sobre cómo instalar y configurar el proyecto, incluyendo dependencias y requisitos del sistema si los hubiera.
+Instructions on how to install and configure the project, including dependencies and system requirements if any.
 
-## Uso
+## Usage
 
-Instrucciones sobre cómo usar el proyecto, ejemplos de código, configuración, etc.
+Instructions on how to use the project, code examples, configuration, etc.
 
-## Contribución
+## Contribution
 
-Si estás interesado en contribuir al proyecto, aquí puedes incluir instrucciones sobre cómo hacerlo, pautas de contribución, políticas de ramificación, etc.
+If you're interested in contributing to the project, here you can include instructions on how to do so, contribution guidelines, branching policies, etc.
 
-## Autores
+## Authors
 
-Lista de autores/contribuidores del proyecto.
+List of authors/contributors to the project.
 
-## Licencia
+## License
 
-Indica la licencia bajo la cual se distribuye el proyecto. Puedes incluir un enlace a un archivo LICENSE.md para más detalles.
+Indicate the license under which the project is distributed. You can include a link to a [LICENSE.md](LICENSE.md) file for more details.
