@@ -17,10 +17,10 @@ Your contributions are welcome! If you have a solution for an everyday problem t
 
 ## Available Directories
 
-- `/java`: Solutions in Java.
-- `/python`: Solutions in Python.
-- `/html-css`: Solutions using HTML and CSS for web development.
-- `/javascript`: Solutions in JavaScript.
+- `java`: Solutions in Java.
+- `python`: Solutions in Python.
+- `html-css`: Solutions using HTML and CSS for web development.
+- `javascript`: Solutions in JavaScript.
 - And more to come...
 
 ## Need Help?
@@ -29,6 +29,6 @@ If you have any questions or need assistance, feel free to open an issue or join
 
 ## License
 
-This project is licensed under the [License Name]. See the LICENSE.md file for details.
+This project is licensed under the MIT License. See the LICENSE.md file for details.
 
 We look forward to your contributions and hope you find the solutions we offer in CodeHub helpful!
