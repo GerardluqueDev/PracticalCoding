@@ -1,0 +1,43 @@
+
+.contenedor{
+
+    display: flex;
+    background-color: beige;
+
+
+}
+.imagen{
+    max-width: 200px;
+    height: auto;
+}
+
+h1{
+    color: rgb(98, 90, 90);
+    text-align: left;
+    padding: 40px;
+    font-size: 3em;
+    margin-left: 5%;
+    margin-right: 25%;
+}
+.datos{
+    list-style-type: none;
+}
+
+h2{
+    background-color: beige;
+    color: rgb(98, 90, 90);
+    padding-left: 5%;
+}
+
+.perfil_profesional{
+   
+    p{
+        margin-left: 2%;
+        margin-right: 20%;
+    }
+    
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
