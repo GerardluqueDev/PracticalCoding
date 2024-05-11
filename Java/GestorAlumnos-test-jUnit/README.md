@@ -56,7 +56,7 @@ public static void main(String[] args) {
     }
 }
 ``````
-## Pruebas
+## Pruebas 
 
 Las pruebas unitarias para la clase GestorAlumnos están incluidas en la clase GestorAlumnos_test utilizando el framework JUnit. Puedes ejecutar estas pruebas para garantizar la corrección de la aplicación.
 
